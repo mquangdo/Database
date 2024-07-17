@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/DOMINHQUANG22000117_DATABASE.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/DOMINHQUANG22000117_DATABASE_TH07.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/DOMINHQUANG22000117_DATABASE_TH08.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/DOMINHQUANG22000117_DATABASE_TH09.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Subquery.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Test.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/leetcode.sql" dialect="GenericSQL" />
+  </component>
+</project>
